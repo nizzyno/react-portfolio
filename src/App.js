@@ -1,14 +1,15 @@
-import './App.css';
-import Nav from './components/Nav';
-import About from './components/About';
+import React from 'react';
+import Home from '';
+import Nav from './pages/Nav';
+import About from './pages/About';
 
 function App() {
   return (
     <div>
       <Nav></Nav>
-      <main>
-        <About></About>
-      </main>
+      <About></About>
+      <Home></Home>
+      <Portfolio></Portfolio>
     </div>
   );
 }
