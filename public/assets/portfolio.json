@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Balance",
+    "image": "https://github.com/jamierachael/React-Portfolio/blob/master/src/assets/balance.png?raw=true",
+    "project": "Mood Tracking App",
+    "location": "https://radiant-plains-19401.herokuapp.com/"
+  },
+  {
+    "id": 2,
+    "name": "Coding Quiz",
+    "image": "https://github.com/jamierachael/React-Portfolio/blob/master/src/assets/Coding-Quiz.png?raw=true",
+    "project": "Javascript Quiz",
+    "location": "jamierachael.github.io/Code-Quiz/"
+  },
+  {
+    "id": 3,
+    "name": "Password Generator",
+    "image": "https://github.com/jamierachael/React-Portfolio/blob/master/src/assets/Password-Generator.png?raw=true",
+    "project": "Random Password generator",
+    "location": "https://jamierachael.github.io/Password-Generator/"
+  },
+  {
+    "id": 4,
+    "name": "Survivor Bootcamp Edition",
+    "image": "https://github.com/jamierachael/React-Portfolio/blob/master/src/assets/Survivor-Boot-Camp-Edition.png?raw=true",
+    "project": "A Coding Bootcamp resource",
+    "location": "https://dvega920.github.io/Survivor-Bootcamp-edition/"
+  },
+  {
+    "id": 5,
+    "name": "Weather Dashboard",
+    "image": "https://github.com/jamierachael/React-Portfolio/blob/master/src/assets/weather-dashboard.png?raw=true",
+    "project": "A Weather Tracking App",
+    "location": "https://jamierachael.github.io/Weather-Dashboard/"
+  },
+  {
+    "id": 6,
+    "name": "Work Day Scheduler",
+    "image": "https://github.com/jamierachael/React-Portfolio/blob/master/src/assets/Work-Day-Scheduler.png?raw=true",
+    "project": "A Daily Agenda",
+    "location": "https://jamierachael.github.io/Day-Planner/"
+  }
+]

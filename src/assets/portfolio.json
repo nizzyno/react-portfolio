@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Budget Tracker PWA",
+    "image": "/",
+    "project": "Expense tracking app",
+    "location": "https://github.com/nizzyno/budget-tracker"
+  },
+  {
+    "id": 2,
+    "name": "Social Network API",
+    "image": "/",
+    "project": "Social Network backend API",
+    "location": "https://github.com/nizzyno/social-network-api"
+  },
+  {
+    "id": 3,
+    "name": "E-Commerce Backend",
+    "image": "/",
+    "project": "E-Commerce shopping portal backend",
+    "location": "https://github.com/nizzyno/e-commerce-backend"
+  },
+  {
+    "id": 4,
+    "name": "Employee Tracker",
+    "image": "/",
+    "project": "Employee Tracker MySQL Database",
+    "location": "https://github.com/nizzyno/employee-tracker"
+  },
+  {
+    "id": 5,
+    "name": "README Generator",
+    "image": "/",
+    "project": "Professional README.md Generator",
+    "location": "https://github.com/nizzyno/readme-generator"
+  },
+  {
+    "id": 6,
+    "name": "Weather Dashboard",
+    "image": "/",
+    "project": "A Weather Tracking App",
+    "location": "https://github.com/nizzyno/weather-dashboard"
+  }
+]
